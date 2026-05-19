@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Mohammed-Ahmed-Ox/Mohammed-Ahmed-Ox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mohammed Ahmed
 
-Here are some ideas to get you started:
+Clinician (MBBS) completing an MRes in Oncology at the University of 
+Oxford, in the O'Neill group. My current work builds a metabolism-first 
+single-cell framework for analysing the pancreatic cancer tumour 
+microenvironment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Education:** MBBS (UMST, 2016) · MSc Medical Genetics & Genomics 
+(Glasgow, 2022) · MSc Applied Cancer Science (Oxford, 2024) · MRes 
+Oncology (Oxford, 2026)
+
+**Recent computational work:** Pagoda2 pathway-level scoring, Harmony 
+batch correction, graph-based clustering (Infomap), patient-similarity 
+networks, variance partitioning, SCENIC regulon analysis, bulk-cohort 
+signature projection. R on HPC.
+
+**Earlier work:** Trio whole-genome sequencing variant interpretation 
+(ACMG criteria, gnomAD, in silico predictors) in rare disease genetics.
+
+**Contact:** mohammed.ahmed@oncology.ox.ac.uk
