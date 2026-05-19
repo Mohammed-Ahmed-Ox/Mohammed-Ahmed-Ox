@@ -14,7 +14,7 @@ Oncology (Oxford, 2026)
 **Recent computational work:** Pagoda2 pathway-level scoring, Harmony 
 batch correction, graph-based clustering (Infomap), patient-similarity 
 networks, variance partitioning, SCENIC regulon analysis, bulk-cohort 
-signature projection. R on HPC.
+signature projection. R and Python on Oxford HPC.
 
 **Earlier work:** Trio whole-genome sequencing variant interpretation 
 (ACMG criteria, gnomAD, in silico predictors) in rare disease genetics.
